@@ -1,0 +1,1 @@
+--Como no podemos compartir la base de datos, vamos editando este archivo con todo lo creado o borrado.
